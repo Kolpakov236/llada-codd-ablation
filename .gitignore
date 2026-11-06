@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+venv/
+.venv/
+CoDD/
+offline_bundle*/
+zips*/
+tails*/
+*_run/
+*.log
+*.zip
+*.safetensors
+*.jpc
